@@ -1,19 +1,22 @@
 .h1{
-    background-color: lightgreen;
-    font-size: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 50px;
+  background-color: lightgreen;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
 }
+
 .inner-footer {
   background-color: lightblue;
-  padding-top:10px; /*  sets the height of the padding area on the top of an element */
-  padding-bottom:10px;  /* width of the bottom area of the element's */
+  padding-top: 10px; /*  sets the height of the padding area on the top of an element */
+  padding-bottom: 10px;  /* width of the bottom area of the element's */
   padding-left: 500px; /*sets the left space of an element. */
   font-size: 50px; /*sets the size of a font*/
 }
+
 .body{
-    background-color:lightcoral; /*  sets the background color of an element*/
-    font-size:30px;
-  }
-  
+  background-color:lightcoral; /*  sets the background color of an element*/
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
